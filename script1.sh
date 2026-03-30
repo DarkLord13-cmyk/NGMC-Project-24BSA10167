@@ -1,4 +1,4 @@
-STUDENT_NAME="Utkarsh"
+STUDENT_NAME="Tanmaya"
 SOFTWARE_CHOICE="Git"
 
 KERNEL=$(uname -r)
